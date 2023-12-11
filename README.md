@@ -18,6 +18,7 @@ This app was created using React Create app as an assessment for a potential pos
     - Uses Typescript
     - Uses Chart.js
     - Used Material UI
+    - Note I had some trouble with my tests/environment... so the tests are a little lackluster.
 
 ## Overview
 
