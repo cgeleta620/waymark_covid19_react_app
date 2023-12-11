@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+# Build files
+build/
+dist/
+# Temporary files
+*.log
+*.pid
+*.seed
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+# IDE files
+.idea/
+.vscode/
+# Compiled output
+*.map
+*.min.js
+# Miscellaneous
+.DS_Store
+Thumbs.db
