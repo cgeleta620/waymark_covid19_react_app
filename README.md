@@ -5,10 +5,9 @@ This app was created using React Create app as an assessment for a potential pos
 ## How to run
 
 1. `git clone` the repo
-2. navigate to ~/waymark_covid_app
-3. `yarn install`
-4. `yarn start`
-5. The app should be available on `http://localhost:3000` from a browser.
+2. `yarn install`
+3. `yarn start`
+4. The app should be available on `http://localhost:3000` from a browser.
 
 ## Basic info
 
